@@ -166,7 +166,7 @@ function Button(){
             <p>GAME OVER</p>
             <span className='link' onClick={()=>{
 
-            }}>Play Again</span>
+            }}></span>
           </aside>
           }
           { rule &&
@@ -234,7 +234,7 @@ function Button(){
             <p>GAME OVER</p>
             <span className='link' onClick={()=>{
 
-            }}>Play Again</span>
+            }}></span>
           </aside>
           }
           { rule &&
@@ -302,7 +302,7 @@ function Button(){
             <p>GAME OVER</p>
             <span className='link' onClick={()=>{
 
-            }}>Play Again</span>
+            }}></span>
           </aside>
           }
           { rule &&
